@@ -13,17 +13,6 @@ html{
 body{
     background-color: #00d5ff;
 }
-
-.jumbotron {
-    text-align: center;
-    color: black;
-    position: relative;
-    background: #76ffff;
-    width: 100%;
-    height: 100%;
-    background-size: cover;
-    overflow: hidden;
-}
   /* set map, body, and html to 100% of the screen size */
   #map,
   body,
